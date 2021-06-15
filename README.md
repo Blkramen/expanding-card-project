@@ -1,2 +1,2 @@
 # expanding-card-project
-Expanding Cards
+Expanding Cards project for creating a container with image cards that expand.
